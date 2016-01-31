@@ -1,0 +1,17 @@
+Version Control makes me more confident that the changes I make won't break things because I can see the differences from version to version. 
+
+Compare two commits, printing each line that is present in one commit but not the other.
+
+gif diff will do this. It takes two arguments - the two commit id's to compare
+
+Make a copy of an entire Git repository, including the history, onto your own computer
+
+giti clone will do this, the argument being the url of the repository you wish to copy
+
+Temporarily reset all files in a directory to their state at the time of a specific commit.
+
+git checkout will do this, and it takes one argument, the commit ID to restore. Note that when you type "git log", it will not show the previous commits before the commit id you used to check out.
+
+Show the commits made in this repository, starting with the most recent
+
+git log will do this. NO arguments. su
