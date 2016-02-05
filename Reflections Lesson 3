@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Other people may be working on the same project as you. Also if you have a home computer and a work computer, your local repositories will not sync up with each other unless you do a push pull thingymajig on github.
